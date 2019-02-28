@@ -1,9 +1,9 @@
 # Site settings
 title: imyourtong's blog
-SEOTitle: tong Blog
+SEOTitle: tongchen | Simple Blog
 header-img: img/post-bg-desk.jpg
 email: tongchen.li@hotmail.com
-description: "center park"
+description: "Stay Inspired."
 keyword: "data science, reading, communication"
 url: "http://imyourtong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
