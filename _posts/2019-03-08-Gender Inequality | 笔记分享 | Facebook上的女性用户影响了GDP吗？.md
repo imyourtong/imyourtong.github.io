@@ -105,6 +105,7 @@ Q是一个矩阵，包含每个国家在经济、健康、教育、政治上的�
 ## 心得
 
 Online social networks may lower the barriers that women have to access to informational resources and help to narrow the economic gender gap.
+
 本期读书分享在b站有分享视频：[第谷读书会|论文|怎样用大数据做一个性别研究？](https://www.bilibili.com/video/av45672444)
 
 ### PS:在看这篇论文时一定要配合附录一起看。
